@@ -2,7 +2,8 @@
 #include "menu.h"
 #include "structure.h"
 #include "plateau.h"
-
+#include<stdlib.h>
+#include <time.h>
 int main(){
 
     Joueur monHeros ;
