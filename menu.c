@@ -3,10 +3,10 @@
 #include "menu.h" 
 
 void afficherMenuAccueil(){
-    printf("\033[35m ----------------------- BIENVENUE DANS CY-MEMO-RPG ------------------------------------\033[0m\n\n") ; 
+    printf("\033[35m ----------------------- BIENVENUE DANS CY-MEMO-RPG -------------------------\033[0m\n\n") ; 
 }
 
-int choisirArme(){
+int choisirArme(){ 
     int choix = 0 ; 
     do {
         printf("Quelle arme choisi-tu pour avacer ?\n"); 
