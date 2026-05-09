@@ -6,3 +6,6 @@ int choisirAction();
 int choisirArme(); 
 
 #endif 
+
+
+

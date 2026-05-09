@@ -40,7 +40,7 @@ int choisirAction(){
         scanf("%d", &choix); 
 
         if(choix < 1 || choix >3 ){
-            printf("ERREUR 404 veuiller taper 1, 2 ou 3 ");
+            printf("ERREURs 404 veuiller taper 1, 2 ou 3 ");
 
         }
     }while(choix <1 || choix>3) ; 
